@@ -1,8 +1,7 @@
 # SnakeGame_java
-A bigginer attempt to create a classic Snake Xenzia
 # 🐍 Snake Game in Java
 
-A classic Snake game built using Java Swing. Eat the apples, grow longer, and avoid crashing!
+A beginner’s attempt to recreate the classic Snake Xenzia using Java Swing. Eat apples, grow longer, and avoid crashing!
 
 ## 🎮 How to Play
 - Arrow keys to move
@@ -16,6 +15,7 @@ A classic Snake game built using Java Swing. Eat the apples, grow longer, and av
 - hidden movement attribute 🙃
 
 ## 🛠️ Run Instructions
-Compile and run `snake_launcher.java` using any Java IDE or terminal.
+Compile both `snakeGame.java` and `snake_launcher.java` then run `snake_launcher.java` using any Java IDE or terminal.
 
+#have fun
 //Rising_Rex...
